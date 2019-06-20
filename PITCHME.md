@@ -8,6 +8,9 @@
 @snap[west span-0]
 @ul
  - ¿Qué?
+ @ul
+	- Dispositivo electrónico
+ @ulend
  - ¿Para qué?
  - ¿Cómo?
 @ulend

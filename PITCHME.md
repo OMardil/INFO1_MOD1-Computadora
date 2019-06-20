@@ -7,11 +7,8 @@
 
 @snap[west span-0]
 @ul
- - ¿Qué?
- @ul
-	- Dispositivo electrónico
- @ulend
- - ¿Para qué?
+ - @css[text-blue fragment](¿Qué?)
+ - @box[text-orange span-30 fragment](¿Para qué?)
  - ¿Cómo?
 @ulend
 @snapend

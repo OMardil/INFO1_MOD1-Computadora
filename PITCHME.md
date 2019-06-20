@@ -1,8 +1,8 @@
 # Informática I
 ¿Qué es una computadora?
 ---
-@snap[west span-50]
-## ¿Qué es una computadora?
+@snap[west span-30]
+### ¿Qué es una computadora?
 @snapend
 
 @snap[north-east span-60 fragment] 

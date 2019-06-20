@@ -1,7 +1,7 @@
 # Informática I
 ¿Qué es una computadora?
 ---
-@snap[north span-0]
+@snap[north span-50]
 ## ¿Qué es una computadora?
 @snapend
 

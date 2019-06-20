@@ -7,8 +7,8 @@
 
 @snap[west span-55]
 	@ul
-	 ¿Qué?
-	 ¿Para qué?
-	 ¿Cómo?
+	 - ¿Qué?
+	 - ¿Para qué?
+	 - ¿Cómo?
 	@ulend
 @snapend

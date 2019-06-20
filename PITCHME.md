@@ -2,11 +2,13 @@
 ¿Qué es una computadora?
 ---
 @snap[north span-0]
-# ¿Qué es una computadora?
+### ¿Qué es una computadora?
 @snapend
 
-@snap[mid span-0]
-## ¿Qué?
-## ¿Para qué?
-## ¿Cómo?
+@snap[west span-55]
+	@ul
+	 ¿Qué?
+	 ¿Para qué?
+	 ¿Cómo?
+	@ulend
 @snapend

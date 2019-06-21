@@ -2,7 +2,7 @@
 ¿Qué es una computadora?
 
 ---
-### Comercial - What's a computer?
+## Comercial - What's a computer?
 En enero del 2018, Apple lanzó un comercial que muestra su visión del futuro.
 
 +++
@@ -64,7 +64,7 @@ El comercial fue recibido con fuertes críticas de la comunidad e internet. <br/
 	@fa[microchip fragment text-left](CPU) </br>
 	@fa[keyboard fragment text-left](Dispositivo I/O) </br>
 	
----
+---?color=linear-gradient(90deg, #E27924 65%, white 35%)
 @snap[north text-15]
 Memoria RAM<br>
 @snapend

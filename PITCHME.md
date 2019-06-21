@@ -61,7 +61,7 @@ El comercial fue recibido con fuertes críticas de la comunidad e internet. <br/
 ## Arquitectura Von Neumann
 La mayoría de las computadoras modernas utilizan una arquitectura Von Neumman.</br>
 Esta arquitectura divide la computadora en tres componentes principales: </br>
-@fa[memory fragment text-blue](Memoria RAM) </br>
-@fa[microchip fragment](CPU) </br>
-@fa[hdd fragment](Dispositivo de almacenamiento) </br>
+@fa[memory icon-list fragment](Memoria RAM) </br>
+@fa[microchip icon-list fragment](CPU) </br>
+@fa[hdd icon-list fragment](Dispositivo de almacenamiento) </br>
 

@@ -24,14 +24,15 @@ En enero del 2018, Apple lanzó un comercial que muestra su visión del futuro.
 El comercial fue recibido con fuertes críticas de la comunidad e internet. <br/>
 @snapend
 
-@snap[south]
+@snap[south span-100]
 @css[fragment](¿Por qué crees que haya sido esto?)
 @css[text-blue fragment](Y no sólo porque todo nos ofende...)
 @snapend
 
+---
+## ¿Los siguientes ejemplos son computadoras?
 
-
----?image=assets/img/home-office-336378_1920.jpg&size=auto 90%
++++?image=assets/img/home-office-336378_1920.jpg&size=auto 90%
 +++?image=assets/img/ipad-605420_1920.jpg&size=auto 90%
 +++?image=assets/img/iphone-410311_1280.jpg&size=auto 90%
 +++?image=assets/img/calculator-385506_1920.jpg&size=auto 90%
@@ -40,20 +41,20 @@ El comercial fue recibido con fuertes críticas de la comunidad e internet. <br/
 +++?image=assets/img/wristwatch-1283309_1280.jpg&size=auto 90%
 
 ---
-@snap[west span-30]
+@snap[west span-60]
 ## ¿Qué es una computadora?
 @snapend
 
-@snap[north-east span-40 fragment] 
-@box[bg-purple text-white box-narrow-padding](Step 1.#¿Qué es?) 
+@snap[north-east span-35 fragment] 
+@box[bg-purple text-white box-narrow-padding](¿Qué es?@css[fragment](#Dispositivo electrónico)) 
 @snapend
 
-@snap[east span-40 fragment] 
-@box[bg-orange text-white box-narrow-padding](Step 2.#¿Qué hace?) 
+@snap[east span-35 fragment] 
+@box[bg-orange text-white box-narrow-padding](¿Qué hace?.#Capaz de procesar información) 
 @snapend
 
-@snap[south-east span-40 fragment] 
-@box[bg-pink text-white box-narrow-padding](Step 3.#¿Cómo lo hace?) 
+@snap[south-east span-35 fragment] 
+@box[bg-pink text-white box-narrow-padding](¿Qué produce?#Y generar un resultado) 
 @snapend
 
 ---

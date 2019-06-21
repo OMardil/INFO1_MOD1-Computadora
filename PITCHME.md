@@ -41,16 +41,16 @@ El comercial fue recibido con fuertes críticas de la comunidad e internet. <br/
 +++?image=assets/img/wristwatch-1283309_1280.jpg&size=auto 90%
 
 ---
-@snap[west span-60]
-## ¿Qué es una computadora?
+@snap[west span-65]
+### ¿Qué es una computadora?
 @snapend
 
 @snap[north-east span-35 fragment] 
-@box[bg-purple text-white box-narrow-padding](¿Qué es?@css[fragment](#Dispositivo electrónico)) 
+@box[bg-purple text-white box-narrow-padding](¿Qué es?#Dispositivo electrónico)
 @snapend
 
 @snap[east span-35 fragment] 
-@box[bg-orange text-white box-narrow-padding](¿Qué hace?.#Capaz de procesar información) 
+@box[bg-orange text-white box-narrow-padding](¿Qué hace?#Capaz de procesar información) 
 @snapend
 
 @snap[south-east span-35 fragment] 

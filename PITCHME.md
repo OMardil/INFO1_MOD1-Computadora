@@ -46,15 +46,15 @@ El comercial fue recibido con fuertes críticas de la comunidad e internet. <br/
 @snapend
 
 @snap[north-east span-35 fragment] 
-@box[bg-purple text-white box-narrow-padding](¿Qué es?#Dispositivo electrónico)
+@box[bg-purple text-white box-narrow-padding](¿Qué es?#Es un dispositivo electrónico programable)
 @snapend
 
 @snap[east span-35 fragment] 
-@box[bg-orange text-white box-narrow-padding](¿Qué hace?#Capaz de procesar información) 
+@box[bg-orange text-white box-narrow-padding](¿Qué hace?#capaz de recibir información) 
 @snapend
 
 @snap[south-east span-35 fragment] 
-@box[bg-pink text-white box-narrow-padding](¿Qué produce?#Y generar un resultado) 
+@box[bg-pink text-white box-narrow-padding](¿Qué produce?# y producir un resultado.) 
 @snapend
 
 ---

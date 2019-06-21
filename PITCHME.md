@@ -6,7 +6,7 @@
 @snapend
 
 ---
-@snap[west span-60]
+@snap[west span-30]
 ## ¿Qué es una computadora?
 @snapend
 

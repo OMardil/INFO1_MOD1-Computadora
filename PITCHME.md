@@ -3,14 +3,30 @@
 ---
 @snap[north-west] 
 ![](assets/img/computer_1.png) 
+@snapend
+
+@snap[north] 
 ![](assets/img/computer_2.png) 
+@snapend
+@snap[north-east] 
 ![](assets/img/computer_3.png) 
+@snapend
+@snap[east] 
 ![](assets/img/computer_4.png) 
+@snapend
+@snap[west]
 ![](assets/img/computer_5.png) 
+@snapend
+@snap[south-west] 
 ![](assets/img/computer_6.png) 
+@snapend
+@snap[south-east] 
 ![](assets/img/computer_7.png) 
+@snapend
+@snap[south] 
 ![](assets/img/computer_8.png) 
 @snapend
+
 
 ---
 @snap[west span-30]

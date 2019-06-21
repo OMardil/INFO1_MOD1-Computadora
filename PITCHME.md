@@ -58,9 +58,8 @@ El comercial fue recibido con fuertes críticas de la comunidad e internet. <br/
 @snapend
 
 ---
-@css[text-blue text-bold](Arquitectura de una Computadora) </br>
-@css[text-left](La mayoría de las computadoras modernas utilizan una arquitectura Von Neumman.
-Esta arquitectura divide la computadora en tres componentes principales: )</br>
+## Arquitectura de una Computadora)
+@css[fragment text-left](La mayoría de las computadoras modernas utilizan una arquitectura Von Neumman. Esta arquitectura divide la computadora en tres componentes principales: )</br>
 	@fa[memory fragment](Memoria RAM) </br>
 	@fa[microchip fragment](CPU) </br>
 	@fa[keyboard fragment](Dispositivo I/O) </br>

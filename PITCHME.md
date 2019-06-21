@@ -60,6 +60,19 @@ El comercial fue recibido con fuertes críticas de la comunidad e internet. <br/
 ---
 ## Arquitectura de una Computadora
 @css[fragment text-left](La mayoría de las computadoras modernas utilizan una arquitectura Von Neumman. Esta arquitectura divide la computadora en tres componentes principales: )</br>
-	@fa[memory fragment text-left](Memoria RAM) </br>
+	@fa[memory fragment text-left](Memoria) </br>
 	@fa[microchip fragment text-left](CPU) </br>
 	@fa[keyboard fragment text-left](Dispositivo I/O) </br>
+	
+---
+@snap[north text-15]
+## Memoria RAM<br>
+@css[text-italics](Random Access Memory)
+@snapend
+
+
++++ 
+## Memoria ROM
+
+
+

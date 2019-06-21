@@ -66,9 +66,11 @@ El comercial fue recibido con fuertes críticas de la comunidad e internet. <br/
 	
 ---
 @snap[north text-15]
-## Memoria RAM<br>
-@css[text-italics](Random Access Memory)
+Memoria RAM<br>
 @snapend
+@css[text-italics text-10](Random Access Memory)
+@css[text-left text-15](Es parte de la memoria principal de una computadora. Es la base del trabajo para el sistema operativo, los programas, y la mayor parte del software.)
+
 
 
 +++ 

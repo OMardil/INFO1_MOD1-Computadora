@@ -1,7 +1,6 @@
 ## Introducción a la Informática
 ¿Qué es una computadora?
 ---
-## ¿Qué es una computadora?
 @snap[north-west span-30] ![IMG1](assets/img/computer_1.png) @snapend
 
 ---

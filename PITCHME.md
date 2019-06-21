@@ -10,11 +10,13 @@ En enero del 2018, Apple lanzó un comercial que muestra su visión del futuro.
 ![Video](https://www.youtube.com/embed/pI-iJcC9JUc)
 
 +++
-### Reacción
+## Reacción
 @fa[angry fa-pulse]
 @fa[angry fa-pulse]
 @fa[angry fa-pulse]
-El comercial fue recibido con fuertes críticas de la comunidad e internet. ¿Por qué crees que haya sido esto?
+<br/>
+El comercial fue recibido con fuertes críticas de la comunidad e internet. <br/>
+¿Por qué crees que haya sido esto?
 
 
 

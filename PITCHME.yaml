@@ -32,10 +32,13 @@ layout : center
 #
 footnote : "¿Qué es una computadora?"
 
+# Transition
+transition : slide
+
 #
 # Published Setting
 # Doc: https://gitpitch.com/docs/settings/published
-#
+
 published : true
 
 #

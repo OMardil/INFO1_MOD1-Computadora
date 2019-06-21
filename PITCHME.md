@@ -1,11 +1,11 @@
 ## Introducción a la Informática
 ¿Qué es una computadora?
 
----?img/home-office-336378_1920.jpg
-+++?img/ipad-605420_1920.jpg
-+++?img/iphone-410311_1280.jpg
-+++?img/abacus-7935_1920.jpg
-+++?img/calculator-385506_1920.jpg
+---?image=assets/img/home-office-336378_1920.jpg
++++?image=assets/img/ipad-605420_1920.jpg
++++?image=assets/img/iphone-410311_1280.jpg
++++?image=assets/img/abacus-7935_1920.jpg
++++?image=assets/img/calculator-385506_1920.jpg
 
 
 ---

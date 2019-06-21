@@ -2,7 +2,7 @@
 ¿Qué es una computadora?
 ---
 @snap[north-west] 
-![IMG1](assets/img/computer_1.png) 
+![IMG1](assets/img/computer_1.png&size=contain) 
 @snapend
 
 ---

@@ -6,7 +6,7 @@
 En enero del 2018, Apple lanzó un comercial que muestra su visión del futuro.
 
 +++
-![Video](https://www.youtube.com/watch?v=pI-iJcC9JUc)
+![Video](https://www.youtube.com/embed/pI-iJcC9JUc)
 
 ---?image=assets/img/home-office-336378_1920.jpg&size=auto 90%
 +++?image=assets/img/ipad-605420_1920.jpg&size=auto 90%

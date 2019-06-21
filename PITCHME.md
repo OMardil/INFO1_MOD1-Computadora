@@ -41,20 +41,27 @@ El comercial fue recibido con fuertes críticas de la comunidad e internet. <br/
 +++?image=assets/img/wristwatch-1283309_1280.jpg&size=auto 90%
 
 ---
-@snap[west span-65]
+@snap[west span-50]
 ### ¿Qué es una computadora?
 @snapend
 
-@snap[north-east span-35 fragment] 
+@snap[north-east span-50 fragment] 
 @box[bg-purple text-white box-narrow-padding](¿Qué es?#Es un dispositivo electrónico programable)
 @snapend
 
-@snap[east span-35 fragment] 
+@snap[east span-50 fragment] 
 @box[bg-orange text-white box-narrow-padding](¿Qué hace?#capaz de recibir información) 
 @snapend
 
-@snap[south-east span-35 fragment] 
+@snap[south-east span-50 fragment] 
 @box[bg-pink text-white box-narrow-padding](¿Qué produce?# y producir un resultado.) 
 @snapend
 
 ---
+## Arquitectura Von Neumann
+La mayoría de las computadoras modernas utilizan una arquitectura Von Neumman.</br>
+Esta arquitectura divide la computadora en tres componentes principales: </br>
+@fa[memory fragment](Memoria RAM) </br>
+@fa[microchip fragment](Memoria RAM) </br>
+@fa[hdd fragment](Memoria RAM) </br>
+

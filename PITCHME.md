@@ -11,9 +11,9 @@ En enero del 2018, Apple lanzó un comercial que muestra su visión del futuro.
 
 +++
 ## Reacción
-@fa[angry fa-pulse]
-@fa[angry fa-pulse]
-@fa[angry fa-pulse]
+@fa[angry fa-pulse fa-3x]
+@fa[angry fa-pulse fa-4x]
+@fa[angry fa-pulse fa-5x]
 <br/>
 El comercial fue recibido con fuertes críticas de la comunidad e internet. <br/>
 ¿Por qué crees que haya sido esto?

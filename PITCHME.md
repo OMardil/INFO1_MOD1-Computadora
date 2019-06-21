@@ -10,15 +10,23 @@ En enero del 2018, Apple lanzó un comercial que muestra su visión del futuro.
 ![Video](https://www.youtube.com/embed/pI-iJcC9JUc)
 
 +++
+@snap[north-west]
 ## Reacción
-@fa[angry fa-pulse fa-4x]
-@fa[angry fa-pulse fa-4x]
-@fa[angry fa-pulse fa-4x]
-<br/>
-El comercial fue recibido con fuertes críticas de la comunidad e internet. <br/>
+@snapend
 
-@snap[south fragment]
-¿Por qué crees que haya sido esto?
+@snap[mid]
+@fa[angry fa-pulse fa-4x]
+@fa[angry fa-pulse fa-4x]
+@fa[angry fa-pulse fa-4x]
+@snapend
+
+@snap[mid span-100]
+El comercial fue recibido con fuertes críticas de la comunidad e internet. <br/>
+@snapend
+
+@snap[south]
+@css[fragment](¿Por qué crees que haya sido esto?)
+@css[text-red fragment](Y no sólo porque todo nos ofende...)
 @snapend
 
 

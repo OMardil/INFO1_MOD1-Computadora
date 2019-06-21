@@ -59,14 +59,12 @@ El comercial fue recibido con fuertes críticas de la comunidad e internet. <br/
 
 ---
 @snap[north span-100]
-## Arquitectura Von Neumann
+## Arquitectura de una computadora
 @snapend
 @snap[midpoint span-100 text-left]
-La mayoría de las computadoras modernas utilizan una arquitectura Von Neumman.</br>
+La mayoría de las computadoras modernas utilizan una arquitectura Von Neumman.
 Esta arquitectura divide la computadora en tres componentes principales: </br>
-@snapend
-@snap[south-west span-100 text-left]
-@fa[memory fragment](Memoria RAM) </br>
-@fa[microchip fragment](CPU) </br>
-@fa[hdd fragment](Dispositivo de almacenamiento) </br>
+	@fa[memory fragment](Memoria RAM) </br>
+	@fa[microchip fragment](CPU) </br>
+	@fa[keyboard fragment](Dispositivo I/O) </br>
 @snapend

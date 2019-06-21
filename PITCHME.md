@@ -26,7 +26,7 @@ El comercial fue recibido con fuertes críticas de la comunidad e internet. <br/
 
 @snap[south]
 @css[fragment](¿Por qué crees que haya sido esto?)
-@css[text-red fragment](Y no sólo porque todo nos ofende...)
+@css[text-blue fragment](Y no sólo porque todo nos ofende...)
 @snapend
 
 

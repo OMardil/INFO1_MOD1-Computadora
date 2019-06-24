@@ -74,4 +74,36 @@ Las computadoras modernas están compuestas por una combinación de hardware y s
 @quote[Todas las partes de una computadora que pueden tocarse.](Cultura popular)
 @snapend
 
++++
+### CPU
+#### Central Processing Unit
+<br>
+La @css[text-pink](Unidad Central de Procesamiento) es el encargado de controlar el flujo, decodificación y ejecución de instrucciones, procesamiento y transferencia de datos.
+<br>
+@css[text-italics](Es el cerebro de la computadora.)
+<br> 
+Adicionalmente, es responsable de:
+* Ejecutar operaciones
+* Controlar el flujo de ejecución de los programas
+* Controlar los circuitos internos (activar, desactivar componentes).
+
+### Memoria RAM
+#### Random Access Memory
+<br>
+Es parte de la @css[text-pink](memoria principal) de una computadora. Es la memoria de trabajo para el sistema operativo, los programas, y la mayoría del software.
+<br>
+* Contiene las instrucciones de los programas y toda la memoria que estos ocupan.
+* Necesita electricidad para almacenar información, por lo que al apagar la computadora la información se pierde @css[text-pink]( (memoria volátil) ). 
+
+
++++ 
+@title[Memoria Principal]
+@css[text-bold text-red](Memoria principal) <br>
+Es la memoria
+
++++ 
+### Memoria 
+
++++ 
+### Memoria 
 

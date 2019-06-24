@@ -78,7 +78,10 @@ s[text-pink](sistema operativo, procesador de texto, editor de imágenes, navega
 +++
 ### CPU
 #### Central Processing Unit
-La @css[text-pink](Unidad Central de Procesamiento) es el encargado de controlar el flujo, decodificación y ejecución de instrucciones, procesamiento y transferencia de datos.
+
+@css[text-left](La) 
+@css[text-pink text-left](Unidad Central de Procesamiento) 
+@css[text-left](es el encargado de controlar el flujo, decodificación y ejecución de instrucciones, procesamiento y transferencia de datos.)
 <br>
 @css[text-italics](Es el cerebro de la computadora.)
 <br> 

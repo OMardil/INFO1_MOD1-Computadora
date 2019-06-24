@@ -68,11 +68,7 @@ Las computadoras modernas están compuestas por una combinación de hardware y s
 @css[text-pink](sistema operativo, procesador de texto, editor de imágenes, navegador, etc.)
 
 ---?image=assets/img/cboard2_v3.jpg
-@snap[north-west span-45]
-
-@css[text-white text-bold 5em](Hardware)
-
-@snapend
+## Hardware
 
 @snap[mid-east span-80 ]
 @quote[Todas las partes de una computadora que pueden tocarse.](Cultura popular)

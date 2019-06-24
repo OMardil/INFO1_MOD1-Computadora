@@ -60,9 +60,13 @@ El comercial fue recibido con fuertes críticas de la comunidad e internet. <br/
 ---
 ## Hardware y Software
 
-@css[text-left](Las computadoras modernas están compuestas por una combinación de hardware y software.) <br>
-* Hardware incluye todas las partes físicas de una computadora: chips, disco duro, mouse, pantalla, etc.
-* Software está compuesto por los programas: sistema operativo, procesador de texto, editor de imágenes, navegador, etc.
+Las computadoras modernas están compuestas por una combinación de hardware y software.
+
+* Hardware incluye todas las partes físicas de una computadora: 
+@css[text-highlight](chips, disco duro, mouse, pantalla, etc.)
+* Software está compuesto por los programas: 
+@css[text-highlight](sistema operativo, procesador de texto, editor de imágenes, navegador, etc.)
+
 
 
 
@@ -90,8 +94,4 @@ Memoria RAM<br>
 Texto debería estar orientado a la izquierda. Hola como estás 1 2 3 John Oliver saludos espero que todo bien test test test 12345 prueba prueba prueba jeje.
 * Guarda el sistema operativo
 * Guarda memoria de programa
-
-
--->
-
 

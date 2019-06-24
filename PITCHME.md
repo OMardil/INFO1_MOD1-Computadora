@@ -77,6 +77,7 @@ Memoria RAM<br>
 
 +++ 
 ## Memoria ROM
+Texto debería estar orientado a la izquierda.
 * Guarda el sistema operativo
 * Guarda memoria de programa
 

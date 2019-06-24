@@ -70,13 +70,16 @@ Memoria RAM<br>
 @snapend
 @snap[west span-65]
 @css[text-italics text-10 text-white](Random Access Memory)<br>
-@css[text-left text-15 text-white](Es parte de la memoria principal de una computadora. Es la base del trabajo para el sistema operativo, los programas, y la mayor parte del software.)
+@css[text-left text-10 text-white](Es parte de la memoria principal de una computadora. Es la base del trabajo para el sistema operativo, los programas, y la mayor parte del software.)
 @snapend
 
 
 
 +++ 
 ## Memoria ROM
+* Guarda el sistema operativo
+* Guarda memoria de programa
+
 
 
 

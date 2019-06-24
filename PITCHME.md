@@ -77,7 +77,7 @@ Memoria RAM<br>
 
 +++ 
 ## Memoria ROM
-Texto debería estar orientado a la izquierda.
+Texto debería estar orientado a la izquierda. Hola como estás 1 2 3 John Oliver saludos espero que todo bien test test test 12345 prueba prueba prueba jeje.
 * Guarda el sistema operativo
 * Guarda memoria de programa
 

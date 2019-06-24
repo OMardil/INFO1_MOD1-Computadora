@@ -75,7 +75,7 @@ Las computadoras modernas están compuestas por una combinación de hardware y s
 @snapend
 
 @snap[mid-east span-80 ]
-@quote[text-white](Todas las partes de una computadora que pueden tocarse.)
+@quote[Todas las partes de una computadora que pueden tocarse.](Cultura popular)
 @snapend
 
 

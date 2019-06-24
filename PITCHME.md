@@ -67,6 +67,15 @@ Las computadoras modernas están compuestas por una combinación de hardware y s
 * @css[text-bold](Software) está compuesto por los programas: 
 @css[text-pink](sistema operativo, procesador de texto, editor de imágenes, navegador, etc.)
 
+--- 
+### Hardware
+@snap[north-east span-40]
+@quote[Todas las partes de una computadora que pueden tocarse].
+@snapend
+
+* Memoria
+* CPU
+* Dispositivos I/O
 
 
 

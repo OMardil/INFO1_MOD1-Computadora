@@ -70,12 +70,12 @@ Las computadoras modernas están compuestas por una combinación de hardware y s
 ---?image=assets/img/cboard2.jpg
 @snap[north-west span-45]
 
-@css[text-white text-bold](Hardware)
+@css[text-white text-bold 3.5em](Hardware)
 
 @snapend
 
 @snap[mid-east span-80 ]
-@quote[Todas las partes de una computadora que pueden tocarse].
+@quote[text-white](Todas las partes de una computadora que pueden tocarse.)
 @snapend
 
 

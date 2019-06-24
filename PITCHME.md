@@ -76,7 +76,7 @@ s[text-pink](sistema operativo, procesador de texto, editor de imágenes, navega
 @snapend
 
 +++
-@snap[midpoint text-left]
+@snap[midpoint text-left span-100]
 
 ### CPU
 #### Central Processing Unit

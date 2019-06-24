@@ -62,45 +62,25 @@ El comercial fue recibido con fuertes críticas de la comunidad e internet. <br/
 
 Las computadoras modernas están compuestas por una combinación de hardware y software.
 
-@* @css[text-bold](Hardware) incluye todas las partes físicas de una computadora: 
-@css[text-pink](chips, disco duro, mouse, pantalla, etc.)
+* @css[text-bold](Hardware) incluye todas las partes físicas de una computadora: 
+@css[text-pink](procesador, cables, disco duro, mouse, pantalla, etc.)
 * @css[text-bold](Software) está compuesto por los programas: 
 @css[text-pink](sistema operativo, procesador de texto, editor de imágenes, navegador, etc.)
 
---- 
-### Hardware
-@snap[north-east span-40]
+---?image=assets/img/cboard.jpg
+@snap[north-west span-45]
+
+@css[text-white text-bold](Hardware)
+
+@snapend
+
+@snap[mid-east span-60 ]
 @quote[Todas las partes de una computadora que pueden tocarse].
 @snapend
 
-* Memoria
+* Memoria RAM
+* Memoria ROM
 * CPU
 * Dispositivos I/O
 
-
-
-<!-- 
----
-## Arquitectura de una Computadora
-@css[fragment text-left](La mayoría de las computadoras modernas utilizan una arquitectura Von Neumman. Esta arquitectura divide la computadora en tres componentes principales: )</br>
-	@fa[memory fragment text-left](Memoria) </br>
-	@fa[microchip fragment text-left](CPU) </br>
-	@fa[keyboard fragment text-left](Dispositivo I/O) </br>
-	
----?color=linear-gradient(90deg, #E27924 65%, white 35%)
-@snap[north text-15]
-Memoria RAM<br>
-@snapend
-@snap[west span-65]
-@css[text-italics text-10 text-white](Random Access Memory)<br>
-@css[text-left text-10 text-white](Es parte de la memoria principal de una computadora. Es la base del trabajo para el sistema operativo, los programas, y la mayor parte del software.)
-@snapend
-
-
-
-+++ 
-## Memoria ROM
-Texto debería estar orientado a la izquierda. Hola como estás 1 2 3 John Oliver saludos espero que todo bien test test test 12345 prueba prueba prueba jeje.
-* Guarda el sistema operativo
-* Guarda memoria de programa
 

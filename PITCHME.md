@@ -74,13 +74,8 @@ Las computadoras modernas están compuestas por una combinación de hardware y s
 
 @snapend
 
-@snap[mid-east span-60 ]
+@snap[mid-east span-80 ]
 @quote[Todas las partes de una computadora que pueden tocarse].
 @snapend
-
-* Memoria RAM
-* Memoria ROM
-* CPU
-* Dispositivos I/O
 
 

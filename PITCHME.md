@@ -62,9 +62,9 @@ El comercial fue recibido con fuertes críticas de la comunidad e internet. <br/
 
 Las computadoras modernas están compuestas por una combinación de hardware y software.
 
-* @css[text-bold](Hardware) incluye todas las partes físicas de una computadora: 
+@* @css[text-bold](Hardware) incluye todas las partes físicas de una computadora: 
 @css[text-pink](chips, disco duro, mouse, pantalla, etc.)
-* css[text-bold](Software) está compuesto por los programas: 
+* @css[text-bold](Software) está compuesto por los programas: 
 @css[text-pink](sistema operativo, procesador de texto, editor de imágenes, navegador, etc.)
 
 

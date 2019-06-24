@@ -65,7 +65,8 @@ Las computadoras modernas están compuestas por una combinación de hardware y s
 * @css[text-bold](Hardware) incluye todas las partes físicas de una computadora: 
 @css[text-pink](procesador, cables, disco duro, mouse, pantalla, etc.)
 * @css[text-bold](Software) está compuesto por los programas: 
-@css[text-pink](sistema operativo, procesador de texto, editor de imágenes, navegador, etc.)
+@cs
+s[text-pink](sistema operativo, procesador de texto, editor de imágenes, navegador, etc.)
 
 ---?image=assets/img/cboard2_v3.jpg
 ## Hardware
@@ -77,7 +78,6 @@ Las computadoras modernas están compuestas por una combinación de hardware y s
 +++
 ### CPU
 #### Central Processing Unit
-<br>
 La @css[text-pink](Unidad Central de Procesamiento) es el encargado de controlar el flujo, decodificación y ejecución de instrucciones, procesamiento y transferencia de datos.
 <br>
 @css[text-italics](Es el cerebro de la computadora.)
@@ -87,9 +87,10 @@ Adicionalmente, es responsable de:
 * Controlar el flujo de ejecución de los programas
 * Controlar los circuitos internos (activar, desactivar componentes).
 
+
++++
 ### Memoria RAM
 #### Random Access Memory
-<br>
 Es parte de la @css[text-pink](memoria principal) de una computadora. Es la memoria de trabajo para el sistema operativo, los programas, y la mayoría del software.
 <br>
 * Contiene las instrucciones de los programas y toda la memoria que estos ocupan.

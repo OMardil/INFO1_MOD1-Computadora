@@ -58,6 +58,16 @@ El comercial fue recibido con fuertes críticas de la comunidad e internet. <br/
 @snapend
 
 ---
+## Hardware y Software
+
+@css[text-left](Las computadoras modernas están compuestas por una combinación de hardware y software.) <br>
+* Hardware incluye todas las partes físicas de una computadora: chips, disco duro, mouse, pantalla, etc.
+* Software está compuesto por los programas: sistema operativo, procesador de texto, editor de imágenes, navegador, etc.
+
+
+
+<!-- 
+---
 ## Arquitectura de una Computadora
 @css[fragment text-left](La mayoría de las computadoras modernas utilizan una arquitectura Von Neumman. Esta arquitectura divide la computadora en tres componentes principales: )</br>
 	@fa[memory fragment text-left](Memoria) </br>
@@ -82,5 +92,6 @@ Texto debería estar orientado a la izquierda. Hola como estás 1 2 3 John Olive
 * Guarda memoria de programa
 
 
+-->
 
 

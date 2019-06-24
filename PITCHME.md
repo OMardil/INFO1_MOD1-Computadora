@@ -76,20 +76,23 @@ s[text-pink](sistema operativo, procesador de texto, editor de imágenes, navega
 @snapend
 
 +++
+@snap[midpoint text-left]
+
 ### CPU
 #### Central Processing Unit
 
-@css[text-left](La) 
-@css[text-pink text-left](Unidad Central de Procesamiento) 
-@css[text-left](es el encargado de controlar el flujo, decodificación y ejecución de instrucciones, procesamiento y transferencia de datos.)
+La @css[text-pink](Unidad Central de Procesamiento) es el encargado de controlar el flujo, decodificación y ejecución de instrucciones, procesamiento y transferencia de datos.
 <br>
 @css[text-italics](Es el cerebro de la computadora.)
 <br> 
 Adicionalmente, es responsable de:
-* Ejecutar operaciones
-* Controlar el flujo de ejecución de los programas
-* Controlar los circuitos internos (activar, desactivar componentes).
+@ul
+- Ejecutar operaciones
+- Controlar el flujo de ejecución de los programas
+- Controlar los circuitos internos (activar, desactivar componentes).
+@ulend
 
+@snapend
 
 +++
 ### Memoria RAM

@@ -26,7 +26,6 @@ El comercial fue recibido con fuertes críticas de la comunidad e internet. <br/
 
 @snap[south span-100]
 @css[fragment](¿Por qué crees que haya sido esto?)
-@css[text-blue fragment](Y no sólo porque todo nos ofende...)
 @snapend
 
 ---
@@ -65,8 +64,7 @@ Las computadoras modernas están compuestas por una combinación de hardware y s
 * @css[text-bold](Hardware) incluye todas las partes físicas de una computadora: 
 @css[text-pink](procesador, cables, disco duro, mouse, pantalla, etc.)
 * @css[text-bold](Software) está compuesto por los programas: 
-@cs
-s[text-pink](sistema operativo, procesador de texto, editor de imágenes, navegador, etc.)
+@css[text-pink](sistema operativo, procesador de texto, editor de imágenes, navegador, etc.)
 
 ---?image=assets/img/cboard2_v3.jpg
 ## Hardware

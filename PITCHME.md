@@ -9,11 +9,13 @@ En enero del 2018, Apple lanzó un comercial que muestra su visión del futuro.
 ### Video
 ![Video](https://www.youtube.com/embed/pI-iJcC9JUc)
 
+
 +++
-@snap[north-west]
-## Reacción
+@snap[mid]
+## ¿Cuál crees que haya sido la reacción de la gente con este comercial?
 @snapend
 
++++
 @snap[mid]
 @fa[angry fa-pulse fa-4x]
 @fa[angry fa-pulse fa-4x]
@@ -26,7 +28,6 @@ El comercial fue recibido con fuertes críticas de la comunidad e internet. <br/
 
 @snap[south span-100]
 @css[fragment](¿Por qué crees que haya sido esto?)
-@css[text-blue fragment](Y no sólo porque todo nos ofende...)
 @snapend
 
 ---
@@ -65,8 +66,7 @@ Las computadoras modernas están compuestas por una combinación de hardware y s
 * @css[text-bold](Hardware) incluye todas las partes físicas de una computadora: 
 @css[text-pink](procesador, cables, disco duro, mouse, pantalla, etc.)
 * @css[text-bold](Software) está compuesto por los programas: 
-@cs
-s[text-pink](sistema operativo, procesador de texto, editor de imágenes, navegador, etc.)
+@css[text-pink](sistema operativo, procesador de texto, editor de imágenes, navegador, etc.)
 
 ---?image=assets/img/cboard2_v3.jpg
 ## Hardware
@@ -74,34 +74,55 @@ s[text-pink](sistema operativo, procesador de texto, editor de imágenes, navega
 @snap[mid-east span-80 ]
 @quote[Todas las partes de una computadora que pueden tocarse.](Cultura popular)
 @snapend
-
-+++
 @snap[midpoint text-left span-100]
 
++++
 ### CPU
 #### Central Processing Unit
 
+@snap[mid-east]
 La @css[text-pink](Unidad Central de Procesamiento) es el encargado de controlar el flujo, decodificación y ejecución de instrucciones, procesamiento y transferencia de datos.
 <br>
 @css[text-italics](Es el cerebro de la computadora.)
 <br> 
 Adicionalmente, es responsable de:
-@ul
-- Ejecutar operaciones
-- Controlar el flujo de ejecución de los programas
-- Controlar los circuitos internos (activar, desactivar componentes).
-@ulend
+@ol
+- @color[red](Ejecutar operaciones)
+- @color[red](Controlar el flujo de ejecución de los programas.)
+- @color[red](Controlar los circuitos internos [activar, desactivar componentes].) 
+@olend
 
 @snapend
 
++++?image=assets/img/intel_i7.jpg&size=auto 90%
++++?image=assets/img/amd-lisa-su-holding-ryzen-closeup-crop-100709918-orig.jpg&size=auto 90%
++++?image=assets/img/qualcomm-snapdragon-8cx-1-768x424.jpg&size=auto 90%
+
++++
+### Memoria
+Almacena @css[text-pink](datos) y @css[text-blue](programas).
+<br>Se divide en dos tipos: 
+@ol
+- @css[text-bold](Memoria principal): Memoria RAM y Memoria ROM 
+- @css[text-bold](Memoria secundaria): Disco duro, disco de estado sólido, discos híbridos, CDs, memoria flash, etc.
+@olend
 +++
 ### Memoria RAM
 #### Random Access Memory
-Es parte de la @css[text-pink](memoria principal) de una computadora. Es la memoria de trabajo para el sistema operativo, los programas, y la mayoría del software.
+Es parte de la @css[text-pink](memoria principal) de una computadora. Es la memoria de trabajo para el sistema operativo, los programas, y el software.
 <br>
 * Contiene las instrucciones de los programas y toda la memoria que estos ocupan.
 * Necesita electricidad para almacenar información, por lo que al apagar la computadora la información se pierde @css[text-pink]( (memoria volátil) ). 
 
++++
+### Memoria RAM
+Almacena toda la información con la que una computadora está trabajando. Por ejemplo:
+* Los programas abiertos en un sistema operativo
+* Partida activa de un videojuego
+* Las pestañas abiertas en un navegador
+
++++?image=assets/img/ram.jpg&size=auto 40%
++++?image=assets/img/kingston_hyperx.jpg&size=auto 90%
 
 +++ 
 @title[Memoria Principal]
@@ -115,3 +136,7 @@ Es la mejor manera
 +++ 
 ### Memoria 
 
++++?image=assets/img/matrix_code-wallpaper-1920x1080.jpg&opacity=60
+@snap[mid-east span-80 ]
+@quote[Todo lo que la computadora está programada para hacer](Cultura popular)
+@snapend

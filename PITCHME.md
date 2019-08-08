@@ -125,13 +125,38 @@ Almacena toda la información con la que una computadora está trabajando. Por e
 +++?image=assets/img/kingston_hyperx.jpg&size=auto 90%
 
 +++ 
-@title[Memoria Principal]
-@css[text-bold text-red](Memoria principal) <br>
-Es la memoria
+### Memoria ROM
+#### Read-Only Memory
+Es parte de la @css[text-pink](memoria principal) de una computadora. Almacena información crítica para la operación de una computadora. 
+* No es común modificar el contenido de este tipo de memoria, aunque SÍ puede hacerse. 
+* Su nombre proviene de que @css[text-bold](no es posible cambiar el uso que se le da a esta memoria).
+* Es memoria persistente, no requiere de energía electríca.
++++
+* Se utiliza para almacenar información del BIOS: @css[text-pink](configuración del procesador, boot order, etc). 
 
-+++ 
-### Memoria 
-Es la mejor manera 
++++?image=assets/img/setup_bios.png&size=auto 90%
++++?image=assets/img/rom_memory.gif&size=auto 40%
+
++++?color=linear-gradient(90deg, white 50%, rgb(231, 30, 90) 50%) 
+
+@snap[north-west text-pink text-09 span-50]
+@css[text-bold](Memoria RAM)
+@ul
+* Se mide en Gigabytes [GB]. Una computadora moderna tiene aproximadamente 4 GB.
+* Es programable y modificable.
+* Se adapta a los programas cargados actualmente en el sistema.
+* Es memoria volátil [requiere electricidad].
+@ulend
+@snapend
+
+@snap[north-east span-50 text-white text-left text-09]
+@css[text-bold](Memoria ROM)
+@ul
+* Se mide en kilobytes [KB] o megabytes [MB]. Una computadora moderna tiene un ROM de 1 MB.
+* Su uso no es modificable. Siempre servirá para almacenar información del sistema.
+* Es memoria persistente [no requiere electricidad].
+@ulend
+@snapend
 
 +++ 
 ### Memoria 

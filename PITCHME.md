@@ -153,15 +153,87 @@ Es parte de la @css[text-pink](memoria principal) de una computadora. Almacena i
 @css[text-bold](Memoria ROM)
 @ul
 * Se mide en kilobytes [KB] o megabytes [MB]. Una computadora moderna tiene un ROM de 1 MB.
-* Su uso no es modificable. Siempre servirá para almacenar información del sistema.
+* Su uso no es modificable. Siempre servirá para almacenar la misma información del sistema.
 * Es memoria persistente [no requiere electricidad].
 @ulend
 @snapend
 
-+++ 
-### Memoria 
++++?color=linear-gradient(0deg, blue 20%, white 80%) 
+@snap[north]
+### Dispositivos I/O
+#### Input / Output
+@snapend
 
-+++?image=assets/img/matrix_code-wallpaper-1920x1080.jpg&opacity=60
+@snap[west text-left]
+<br>
+<br>
+@ul
+* Mouse @fa[keyboard]
+* Teclado @fa[mouse-pointer]
+* Pantalla @fa[desktop]
+* Touchscreen @fa[mobile-alt]
+* Bocinas @fa[headphones]
+* Impresora @fa[print]
+@ulend
+
+@snap[mid-south text-center]
+<br>
+@css[text-white text-bold](Todos los dispositivos externos que interactúan con la computadora.)
+@snapend
+
+
+
+@snapend
+
+---?image=assets/img/matrix_code-wallpaper-1920x1080.jpg&opacity=60
 @snap[mid-east span-80 ]
+## Software
 @quote[Todo lo que la computadora está programada para hacer](Cultura popular)
 @snapend
+
++++
+## Software
+
+El @css[text-pink](software) es un set de instrucciones que sigue una computadora para obtener cierto resultado.
+
+
+La complejidad del software puede variar desde un programa que sólo suma dos números, hasta un sistema operativo de cientos de miles líneas de código.
+
++++
+## Sistemas Operativos
+@ul
+* ¿Puedes nombrar 5?
+@ulend
+
++++
+@snap[north-east]
+![OS_1](assets/img/os_1.png)
+@snapend
+
+@snap[north-west]
+![OS_2](assets/img/os_2.jpg)
+@snapend
+
+@snap[south-east]
+![OS_3](assets/img/os_3.png)
+@snapend
+
+@snap[south-west]
+![OS_4](assets/img/os_4.png)
+@snapend
+
+@snap[mid-east]
+![OS_5](assets/img/os_5.png)
+@snapend
+
++++
+## Sistemas Operativos
+
+Un sistema operativo es un conjunto de programas que se encarga de gestionar y administrar los recursos de hardware.
+
+Entre los recursos se encuentran:
+@ol
+* Memoria principal (asignación y liberación de memoria)
+* Memoria secundaria (administrar los archivos)
+* CPU (ejecución de instrucciones, manejo de programas)
+* Puertos I/O

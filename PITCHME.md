@@ -80,7 +80,7 @@ Las computadoras modernas están compuestas por una combinación de hardware y s
 ### CPU
 #### Central Processing Unit
 
-@snap[mid-east]
+@snap[text-left text-09]
 La @css[text-pink](Unidad Central de Procesamiento) es el encargado de controlar el flujo, decodificación y ejecución de instrucciones, procesamiento y transferencia de datos.
 <br>
 @css[text-italics](Es el cerebro de la computadora.)
@@ -91,7 +91,6 @@ Adicionalmente, es responsable de:
 - @color[red](Controlar el flujo de ejecución de los programas.)
 - @color[red](Controlar los circuitos internos [activar, desactivar componentes].) 
 @olend
-
 @snapend
 
 +++?image=assets/img/intel_i7.jpg&size=auto 90%
@@ -99,27 +98,92 @@ Adicionalmente, es responsable de:
 +++?image=assets/img/qualcomm-snapdragon-8cx-1-768x424.jpg&size=auto 90%
 
 +++
+@snap[west span-60]
+### CPU
+@snapend
+@snap[east span-30]
+![](assets/img/CPU_1.png)
+@snapend
+
++++
+@snap[west span-60 text-08]
+### Unidad de Control
+@ul
+* Es la encargada de llevar el control de la instrucciones a ejecutar, y en qué orden.
+* Se encarga de interpretar cómo ejecutar cada instrucción.
+* Lleva pauta de los ciclos del reloj. Como un metrónome.
+@ulend
+@snapend
+@snap[east span-40]
+![](assets/img/CPU_2.png)
+@snapend
+
++++
+@snap[west span-60 text-08]
+### Unidad Aritmética Lógica
+Realiza:
+@ul
+* Operaciones lógicas (ANDs, ORs, NOTs, etc.)
+* Comparaciones
+* Operaciones aritméticas.
+@ulend
+
+@snapend
+@snap[east span-40]
+![](assets/img/CPU_3.png)
+@snapend
+
++++
+@snap[west span-60 text-08]
+### Memoria Caché
+Memoria @css[text-pink](muy rápida) que se encuentra dentro del procesador. <br>
+Almacena datos o información que puede ser reutilizada en el futuro.
+
+@snapend
+@snap[east span-40]
+![](assets/img/CPU_4.png)
+@snapend
+
++++
+@snap[west span-40 text-08]
+### Memoria RAM
+Almacena los programas.
+@snapend
+@snap[east span-60]
+![](assets/img/CPU_5.png)
+@snapend
+
++++
 ### Memoria
+@snap[text-left]
 Almacena @css[text-pink](datos) y @css[text-blue](programas).
 <br>Se divide en dos tipos: 
 @ol
 - @css[text-bold](Memoria principal): Memoria RAM y Memoria ROM 
 - @css[text-bold](Memoria secundaria): Disco duro, disco de estado sólido, discos híbridos, CDs, memoria flash, etc.
 @olend
+@snapend
+
 +++
 ### Memoria RAM
 #### Random Access Memory
+@snap[text-08 text-left]
 Es parte de la @css[text-pink](memoria principal) de una computadora. Es la memoria de trabajo para el sistema operativo, los programas, y el software.
 <br>
 * Contiene las instrucciones de los programas y toda la memoria que estos ocupan.
 * Necesita electricidad para almacenar información, por lo que al apagar la computadora la información se pierde @css[text-pink]( (memoria volátil) ). 
-
+@snapend
 +++
 ### Memoria RAM
+#### Random Access Memory
+@snap[text-08 text-left]
 Almacena toda la información con la que una computadora está trabajando. Por ejemplo:
-* Los programas abiertos en un sistema operativo
-* Partida activa de un videojuego
-* Las pestañas abiertas en un navegador
+@ul
+* @css[text-pink](Los programas abiertos en un sistema operativo. @fa[windows])
+* @css[text-pink](Partida activa de un videojuego. @fa[gamepad])
+* @css[text-pink](Las pestañas abiertas en un navegador. @fa[chrome])
+@ulend
+@snapend.
 
 +++?image=assets/img/ram.jpg&size=auto 40%
 +++?image=assets/img/kingston_hyperx.jpg&size=auto 90%
@@ -127,19 +191,21 @@ Almacena toda la información con la que una computadora está trabajando. Por e
 +++ 
 ### Memoria ROM
 #### Read-Only Memory
+@snap[text-08 text-left]
 Es parte de la @css[text-pink](memoria principal) de una computadora. Almacena información crítica para la operación de una computadora. 
+@ul
 * No es común modificar el contenido de este tipo de memoria, aunque SÍ puede hacerse. 
 * Su nombre proviene de que @css[text-bold](no es posible cambiar el uso que se le da a esta memoria).
 * Es memoria persistente, no requiere de energía electríca.
-+++
 * Se utiliza para almacenar información del BIOS: @css[text-pink](configuración del procesador, boot order, etc). 
+@ulend
+@snapend 
 
 +++?image=assets/img/setup_bios.png&size=auto 90%
 +++?image=assets/img/rom_memory.gif&size=auto 40%
-
 +++?color=linear-gradient(90deg, white 50%, rgb(231, 30, 90) 50%) 
 
-@snap[north-west text-pink text-09 span-50]
+@snap[west span-40 text-pink text-left text-08]
 @css[text-bold](Memoria RAM)
 @ul
 * Se mide en Gigabytes [GB]. Una computadora moderna tiene aproximadamente 4 GB.
@@ -149,7 +215,7 @@ Es parte de la @css[text-pink](memoria principal) de una computadora. Almacena i
 @ulend
 @snapend
 
-@snap[north-east span-50 text-white text-left text-09]
+@snap[east span-40 text-white text-left text-08]
 @css[text-bold](Memoria ROM)
 @ul
 * Se mide en kilobytes [KB] o megabytes [MB]. Una computadora moderna tiene un ROM de 1 MB.
@@ -237,3 +303,9 @@ Entre los recursos se encuentran:
 * Memoria secundaria (administrar los archivos)
 * CPU (ejecución de instrucciones, manejo de programas)
 * Puertos I/O
+
++++ 
+## Sistema Informático
+* Entradas
+* Proceso
+* Salida

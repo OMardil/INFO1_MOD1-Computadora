@@ -1,4 +1,4 @@
-<canvas data-chart="bar">
+<canvas data-chart="line">
 <!--
 {
  "data": {

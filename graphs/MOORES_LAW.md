@@ -1,4 +1,4 @@
-@snap[east span-70 text-08]
+@snap[west span-70 text-08 text-left]
 ### Moore's Law
 La ley de Moore es una @css[text-pink](observación) que indica que el número de transistores en un circuito integrado se duplica aproximadamente cada dos años. 
 
@@ -10,7 +10,7 @@ La ley de Moore es una @css[text-pink](observación) que indica que el número d
 
 @snapend
 
-@snap[west span-30]
+@snap[east span-30]
 ![Gordon Moore](assets/img/Gordon_Moore.jpg)
 @snapend
  

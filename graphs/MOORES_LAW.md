@@ -1,8 +1,26 @@
-@snap[west span-60 text-05]
+@snap[east span-70 text-08]
 ### Moore's Law
+La ley de Moore es una @css[text-pink](observación) que indica que el número de transistores en un circuito integrado se duplica aproximadamente cada dos años. 
+
+@ul
+* @css[text-pink](1978 Intel 8086): 29,000 de transistores 
+* @css[text-pink](2000 Intel Pentium 4): 42,000,000 de transistores
+* @css[text-pink](2018 Apple A12 Bionic): 6,900,000,000 de transistores
+@ulend
+
+@snapend
+
+@snap[west span-30]
+![Gordon Moore](assets/img/Gordon_Moore.jpg)
+@snapend
+ 
++++
+@snap[north text-08 text-mid]
+## Moore's Law
 Gráfica log2 de los transistores encontrados en un circuito integrado.
 @snapend
-@snap[south-east span-90]
+
+@snap[south]
 <canvas data-chart="line">
 <!--
 {

@@ -31,13 +31,7 @@
    }
   ]
  },
- "options": { "responsive": "true",
-              "scales": {
-                  "xAxes":[{
-                      "type": "'logarithmic'"
-                  }]
-
-              } }
+ "options": { "responsive": "true" }
 }
 -->
 </canvas>

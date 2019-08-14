@@ -1,8 +1,8 @@
-@snap[west span-30]
-## Moore's Law
+@snap[west span-60 text-06]
+### Moore's Law
 Gráfica Log Base 2 de los transistores encontrados en un circuito integrado.
 @snapend
-@snap[east span-70]
+@snap[south-east span-90]
 <canvas data-chart="line">
 <!--
 {

@@ -153,6 +153,8 @@ Almacena los programas.
 ![](assets/img/CPU_5.png)
 @snapend
 
++++?include=graphs/MOORES_LAW.md
+
 +++
 ### Memoria
 @snap[text-left]

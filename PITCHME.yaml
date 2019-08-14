@@ -35,6 +35,9 @@ footnote : "¿Qué es una computadora?"
 # Transition
 transition : slide
 
+# Charts
+charts: true
+
 #
 # Published Setting
 # Doc: https://gitpitch.com/docs/settings/published

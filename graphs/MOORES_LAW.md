@@ -25,7 +25,7 @@
             "27.76",
             "29.50",
             "30.38",
-            "33.06",
+            "33.06"
 ],
     "label":"Transistors on Integrated Circuits",
     "backgroundColor":"rgba(20,20,220,.8)"

@@ -1,3 +1,4 @@
+@snap[]
 ## Moore's Law
 Gráfica Log Base 2 de los transistores encontrados en un circuito integrado.
 
@@ -38,3 +39,4 @@ Gráfica Log Base 2 de los transistores encontrados en un circuito integrado.
 }
 -->
 </canvas>
+@snapend[]

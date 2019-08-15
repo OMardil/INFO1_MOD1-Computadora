@@ -21,14 +21,13 @@ Entre los recursos se encuentran:
 ![](assets/img/OS_ProcessManager.png)
 @snapend
 @snap[west span-50]
-### Process Manager
 #### Administrador de Procesos
-@ul[text-08]
-* El administrador de procesos es el que define el orden en el que se ejecutan las tareas del sistema.
+@ul[text-07]
+* El administrador de procesos es el encargado de definir el orden en el que se ejecutan las tareas del sistema.
 * Ordena y ejecuta las tareas por prioridades.
     * @fa[mouse-pointer]
     * @fa[youtube]
-    * @fa[webcam]
+    * @fa[video]
     * @fa[wifi]
     * @fa[chrome]
     * @fa[music] 

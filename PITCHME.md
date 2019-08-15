@@ -294,7 +294,7 @@ La complejidad del software puede variar desde un programa que sólo suma dos n�
 ![OS_5](assets/img/os_5.png)
 @snapend
 
-+++?include=graphs/OS.md
++++?include=OS.md
 
 +++ 
 ## Sistema Informático

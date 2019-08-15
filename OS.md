@@ -14,12 +14,12 @@ Entre los recursos se encuentran:
 # Qué administra un sistema operativo moderno?
 
 +++?color=linear-gradient(0deg, white 20%, grey 80%)
-![](img/OS_functions_1.png)
+![](assets/img/OS_functions_1.png)
 +++?color=linear-gradient(0deg, white 20%, grey 80%)
-![](img/OS_functions_2.png)
+![](assets/img/OS_functions_2.png)
 +++?color=linear-gradient(0deg, white 20%, grey 80%)
-![](img/OS_functions_3.png)
+![](assets/img/OS_functions_3.png)
 +++?color=linear-gradient(0deg, white 20%, grey 80%)
-![](img/OS_functions_4.png)
+![](assets/img/OS_functions_4.png)
 +++?color=linear-gradient(0deg, white 20%, grey 80%)
-![](img/OS_functions_5.png)
+![](assets/img/OS_functions_5.png)

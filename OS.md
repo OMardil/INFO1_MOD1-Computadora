@@ -14,13 +14,11 @@ Entre los recursos se encuentran:
 # Qué administra un sistema operativo moderno?
 
 +++?color=linear-gradient(90deg, grey 40%, white 60%)
-@snap[east span-60]
 ![](assets/img/OS_AllManagers.png)
-@snapend
 
-+++?color=linear-gradient(90deg, grey 40%, white 60%)
++++?color=linear-gradient(to left, #4CA1AF, #C4E0E5)
 @transition[none]
-@snap[east span-50]
+@snap[east span-60]
 ![](assets/img/OS_ProcessManager.png)
 @snapend
 @snap[west span-50]
@@ -36,8 +34,8 @@ Entre los recursos se encuentran:
     * @fa[chrome]
     * @fa[music] 
 @ulend
-
 @snapend
+
 +++?color=linear-gradient(90deg, grey 60%, white 40%)
 @transition[none]
 @snap[east span-60]
@@ -47,11 +45,5 @@ Entre los recursos se encuentran:
 +++?color=linear-gradient(90deg, grey 60%, white 40%)
 @transition[none]
 @snap[east span-60]
-![](assets/img/OS_FileManager.png)
-@snapend
-
-+++?color=linear-gradient(90deg, grey 60%, white 40%)
-@transition[none]
-@snap[east span-60]
-![](assets/img/OS_AllManagers.png)
+![](assets/img/OS_DeviceManager.png)
 @snapend

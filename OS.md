@@ -13,23 +13,23 @@ Entre los recursos se encuentran:
 +++?color=linear-gradient(0deg, white 20%, grey 80%) 
 # Qué administra un sistema operativo moderno?
 
-+++?color=linear-gradient(0deg, white 40%, grey 60%)
++++?color=linear-gradient(90deg, white 40%, grey 60%)
 @snap[east span-60]
 ![](assets/img/OS_functions_1.png)
 @snapend
-+++?color=linear-gradient(0deg, white 40%, grey 60%)
++++?color=linear-gradient(90deg, white 40%, grey 60%)
 @snap[east span-60]
 ![](assets/img/OS_functions_2.png)
 @snapend
-+++?color=linear-gradient(0deg, white 40%, grey 60%)
++++?color=linear-gradient(90deg, white 40%, grey 60%)
 @snap[east span-60]
 ![](assets/img/OS_functions_3.png)
 @snapend
-+++?color=linear-gradient(0deg, white 40%, grey 60%)
++++?color=linear-gradient(90deg, white 40%, grey 60%)
 @snap[east span-60]
 ![](assets/img/OS_functions_4.png)
 @snapend
-+++?color=linear-gradient(0deg, white 40%, grey 60%)
++++?color=linear-gradient(90deg, white 40%, grey 60%)
 @snap[east span-60]
 ![](assets/img/OS_functions_5.png)
 @snapend

@@ -46,3 +46,15 @@ Entre los recursos se encuentran:
 @snap[east span-60]
 ![](assets/img/OS_DeviceManager.png)
 @snapend
+
++++?color=linear-gradient(to left, #4CA1AF, #C4E0E5)
+@transition[none]
+@snap[east span-60]
+![](assets/img/OS_FileManager.png)
+@snapend
+
++++?color=linear-gradient(to left, #4CA1AF, #C4E0E5)
+@transition[none]
+@snap[east span-60]
+![](assets/img/OS_AllManagers.png)
+@snapend

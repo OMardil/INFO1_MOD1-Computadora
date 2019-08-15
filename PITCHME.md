@@ -294,17 +294,7 @@ La complejidad del software puede variar desde un programa que sólo suma dos n�
 ![OS_5](assets/img/os_5.png)
 @snapend
 
-+++
-## Sistemas Operativos
-
-Un sistema operativo es un conjunto de programas que se encarga de gestionar y administrar los recursos de hardware.
-
-Entre los recursos se encuentran:
-@ol
-* Memoria principal (asignación y liberación de memoria)
-* Memoria secundaria (administrar los archivos)
-* CPU (ejecución de instrucciones, manejo de programas)
-* Puertos I/O
++++?include=graphs/OS.md
 
 +++ 
 ## Sistema Informático

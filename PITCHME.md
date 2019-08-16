@@ -295,18 +295,42 @@ La complejidad del software puede variar desde un programa que sólo suma dos n�
 @snapend
 
 +++
+@snap[text-left]
 ## Sistemas Operativos
-
 Un sistema operativo es un conjunto de programas que se encarga de gestionar y administrar los recursos de hardware.
 
 Entre los recursos se encuentran:
-@ol
-* Memoria principal (asignación y liberación de memoria)
-* Memoria secundaria (administrar los archivos)
-* CPU (ejecución de instrucciones, manejo de programas)
-* Puertos I/O
+@ul[text-08]
+* @css[text-pink](Memoria principal [asignación y liberación de memoria])
+* @css[text-pink](Memoria secundaria [administrar los archivos])
+* @css[text-pink](CPU [ejecución de instrucciones, manejo de programas])
+* @css[text-pink](Puertos I/O)
+@ulend
+@snapend
 
-+++ 
++++?color=linear-gradient(90deg, white 50%, yellow 50%) 
+@snap[west span-45 text-07 text-left]
+#### Sistemas Operativos Tradicional
+##### Traditional OS
+@ol[text-08]
+* Se especializan en poder realizar muchas tareas al mismo tiempo (multitasking).
+* Maneja poca información de múltiples fuentes.
+* No son mission-critical. No importa si se atrasan algunas tareas.
+* Los encontramos en tablets, celulares, computadoras.
+@olend
+@snapend
+
+@snap[east span-45 text-07 text-left]
+#### Sistemas Operativos de Tiempo Real
+##### RTOS (Real Time OS)
+@ol[text-08]
+* Se especializan en rapidez de respuesta.
+* Maneja mucha información de pocas fuentes.
+* Se utilizan en aplicaciones médicas, militares y de procesamiento muy específico.
+@olend
+@snapend
+
++++
 ## Sistema Informático
 * Entradas
 * Proceso

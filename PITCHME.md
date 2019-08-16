@@ -98,6 +98,7 @@ Adicionalmente, es responsable de:
 +++?image=assets/img/qualcomm-snapdragon-8cx-1-768x424.jpg&size=auto 90%
 
 +++
+@transition[none]
 @snap[west span-60]
 ### CPU
 @snapend
@@ -106,7 +107,8 @@ Adicionalmente, es responsable de:
 @snapend
 
 +++
-@snap[west span-60 text-08]
+@transition[none]
+@snap[north-west span-60 text-08]
 ### Unidad de Control
 @ul
 * Es la encargada de llevar el control de la instrucciones a ejecutar, y en qué orden.
@@ -119,7 +121,8 @@ Adicionalmente, es responsable de:
 @snapend
 
 +++
-@snap[west span-60 text-08]
+@transition[none]
+@snap[north-west span-60 text-08]
 ### Unidad Aritmética Lógica
 Realiza:
 @ul
@@ -134,7 +137,8 @@ Realiza:
 @snapend
 
 +++
-@snap[west span-60 text-08]
+@transition[none]
+@snap[north-west span-60 text-08]
 ### Memoria Caché
 Memoria @css[text-pink](muy rápida) que se encuentra dentro del procesador. <br>
 Almacena datos o información que puede ser reutilizada en el futuro.
@@ -145,7 +149,8 @@ Almacena datos o información que puede ser reutilizada en el futuro.
 @snapend
 
 +++
-@snap[west span-40 text-08]
+@transition[none]
+@snap[north-west span-40 text-08]
 ### Memoria RAM
 Almacena los programas.
 @snapend
@@ -189,6 +194,7 @@ Almacena toda la información con la que una computadora está trabajando. Por e
 
 +++?image=assets/img/ram.jpg&size=auto 40%
 +++?image=assets/img/kingston_hyperx.jpg&size=auto 90%
++++?image=assets/img/114032911-male-hands-holding-ram-memory.jpg&size=auto 90%
 
 +++ 
 ### Memoria ROM
@@ -249,10 +255,6 @@ Es parte de la @css[text-pink](memoria principal) de una computadora. Almacena i
 @css[text-white text-bold](Todos los dispositivos externos que interactúan con la computadora.)
 @snapend
 
-
-
-@snapend
-
 ---?image=assets/img/matrix_code-wallpaper-1920x1080.jpg&opacity=60
 @snap[mid-east span-80 ]
 ## Software
@@ -261,74 +263,13 @@ Es parte de la @css[text-pink](memoria principal) de una computadora. Almacena i
 
 +++
 ## Software
-
+@snap[text-left]
 El @css[text-pink](software) es un set de instrucciones que sigue una computadora para obtener cierto resultado.
 
-
 La complejidad del software puede variar desde un programa que sólo suma dos números, hasta un sistema operativo de cientos de miles líneas de código.
-
-+++
-## Sistemas Operativos
-@ul
-* ¿Puedes nombrar 5?
-@ulend
-
-+++
-@snap[north-east]
-![OS_1](assets/img/os_1.png)
 @snapend
 
-@snap[north-west]
-![OS_2](assets/img/os_2.jpg)
-@snapend
-
-@snap[south-east]
-![OS_3](assets/img/os_3.png)
-@snapend
-
-@snap[south-west]
-![OS_4](assets/img/os_4.png)
-@snapend
-
-@snap[mid-east]
-![OS_5](assets/img/os_5.png)
-@snapend
-
-+++
-@snap[text-left]
-## Sistemas Operativos
-Un sistema operativo es un conjunto de programas que se encarga de gestionar y administrar los recursos de hardware.
-
-Entre los recursos se encuentran:
-@ul[text-08]
-* @css[text-pink](Memoria principal [asignación y liberación de memoria])
-* @css[text-pink](Memoria secundaria [administrar los archivos])
-* @css[text-pink](CPU [ejecución de instrucciones, manejo de programas])
-* @css[text-pink](Puertos I/O)
-@ulend
-@snapend
-
-+++?color=linear-gradient(90deg, white 50%, yellow 50%) 
-@snap[west span-45 text-07 text-left]
-#### Sistemas Operativos Tradicional
-##### Traditional OS
-@ol[text-08]
-* Se especializan en poder realizar muchas tareas al mismo tiempo (multitasking).
-* Maneja poca información de múltiples fuentes.
-* No son mission-critical. No importa si se atrasan algunas tareas.
-* Los encontramos en tablets, celulares, computadoras.
-@olend
-@snapend
-
-@snap[east span-45 text-07 text-left]
-#### Sistemas Operativos de Tiempo Real
-##### RTOS (Real Time OS)
-@ol[text-08]
-* Se especializan en rapidez de respuesta.
-* Maneja mucha información de pocas fuentes.
-* Se utilizan en aplicaciones médicas, militares y de procesamiento muy específico.
-@olend
-@snapend
++++?include=OS.md
 
 +++
 ## Sistema Informático

@@ -99,12 +99,20 @@ Adicionalmente, es responsable de:
 
 +++
 @transition[none]
-@snap[west span-60]
+@snap[west span-60 text-08]
 ### CPU
+La velocidad del procesador se mide en Hertz, es decir @css[text-pink](ciclos por segundo). <br><br>
+
+Un procesador con un reloj de 3.20 GHz singifica que puede ejecutar 3.2 billones de operaciones cada segundo.<br><br>
+
+El procesador, junto con el resto de los componentes de una computadora, se coloca sobre una @css[text-pink](tarjeta madre).
+
 @snapend
 @snap[east span-30]
 ![](assets/img/CPU_1.png)
 @snapend
+
+
 
 +++
 @transition[none]
@@ -234,8 +242,8 @@ Es parte de la @css[text-pink](memoria principal) de una computadora. Almacena i
 
 +++?color=linear-gradient(0deg, blue 20%, white 80%) 
 @snap[north]
-### Dispositivos I/O
-#### Input / Output
+### Dispositivos I/O 
+#### Periféricos
 @snapend
 
 @snap[west text-left]
@@ -253,6 +261,21 @@ Es parte de la @css[text-pink](memoria principal) de una computadora. Almacena i
 @snap[mid-south text-center]
 <br>
 @css[text-white text-bold](Todos los dispositivos externos que interactúan con la computadora.)
+@snapend
+
++++?image=assets/img/bus.png
++++
+@snap[north-west text-left text-08]
+## Bus
+Los bus son líneas de comunicación entre sistemas que @css[text-pink](transfieren información). Dentro de una computadora, generalmente están hechos a base de @css[text-pink](cobre). <br> <br>
+
+Fuera de la computadora, pueden estar hechos a base de @css[text-pink](fibra óptica u otros materiales conductores). <br> <br>
+
+@ul[text-09]
+* @css[text-pink](El bus de control) transfiere las instrucciones del CPU a los dispositivos y memoria.<br> 
+* @css[text-pink](El bus de direcciones) transfiere las localidades de memoria y la ubicación de los datos en memoria.<br> 
+* @css[text-pink](El bus de datos) transfiere la información que será procesada.<br> 
+@ulend
 @snapend
 
 ---?image=assets/img/matrix_code-wallpaper-1920x1080.jpg&opacity=60

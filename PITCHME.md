@@ -298,9 +298,14 @@ Hay dos tipos de software:
 @olend
 @snapend
 
-
+---
+# Sistemas Operativos
 +++?include=OS.md
 
+---
+# Software de Aplicación
 +++?include=ApplicationSoftware.md
 
+---
+# Sistema Informático
 +++?include=SistemaInformatico.md

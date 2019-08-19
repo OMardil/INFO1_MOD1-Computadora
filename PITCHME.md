@@ -290,12 +290,17 @@ Fuera de la computadora, pueden estar hechos a base de @css[text-pink](fibra óp
 El @css[text-pink](software) es un set de instrucciones que sigue una computadora para obtener cierto resultado.
 
 La complejidad del software puede variar desde un programa que sólo suma dos números, hasta un sistema operativo de cientos de miles líneas de código.
+
+Hay dos tipos de software:
+@ol[text-08]
+- Software de sistema
+- Software de aplicación
+@olend
 @snapend
+
 
 +++?include=OS.md
 
-+++
-## Sistema Informático
-* Entradas
-* Proceso
-* Salida
++++?include=ApplicationSoftware.md
+
++++?include=SistemaInformatico.md

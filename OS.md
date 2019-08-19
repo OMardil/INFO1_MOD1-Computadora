@@ -129,6 +129,7 @@ Entre los recursos se encuentran:
 @ulend
 @snapend
 
++++?image=assets/img/driver.jpg&size=auto 90%
 
 +++?color=linear-gradient(to left, #4CA1AF, #C4E0E5)
 @transition[none]

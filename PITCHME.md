@@ -98,15 +98,25 @@ Adicionalmente, es responsable de:
 +++?image=assets/img/qualcomm-snapdragon-8cx-1-768x424.jpg&size=auto 90%
 
 +++
-@snap[west span-60]
+@transition[none]
+@snap[west span-60 text-08]
 ### CPU
+La velocidad del procesador se mide en Hertz, es decir @css[text-pink](ciclos por segundo). <br><br>
+
+Un procesador con un reloj de 3.20 GHz singifica que puede ejecutar 3.2 billones de operaciones cada segundo.<br><br>
+
+El procesador, junto con el resto de los componentes de una computadora, se coloca sobre una @css[text-pink](tarjeta madre).
+
 @snapend
 @snap[east span-30]
 ![](assets/img/CPU_1.png)
 @snapend
 
+
+
 +++
-@snap[west span-60 text-08]
+@transition[none]
+@snap[north-west span-60 text-08]
 ### Unidad de Control
 @ul
 * Es la encargada de llevar el control de la instrucciones a ejecutar, y en qué orden.
@@ -119,7 +129,8 @@ Adicionalmente, es responsable de:
 @snapend
 
 +++
-@snap[west span-60 text-08]
+@transition[none]
+@snap[north-west span-60 text-08]
 ### Unidad Aritmética Lógica
 Realiza:
 @ul
@@ -134,7 +145,8 @@ Realiza:
 @snapend
 
 +++
-@snap[west span-60 text-08]
+@transition[none]
+@snap[north-west span-60 text-08]
 ### Memoria Caché
 Memoria @css[text-pink](muy rápida) que se encuentra dentro del procesador. <br>
 Almacena datos o información que puede ser reutilizada en el futuro.
@@ -145,7 +157,8 @@ Almacena datos o información que puede ser reutilizada en el futuro.
 @snapend
 
 +++
-@snap[west span-40 text-08]
+@transition[none]
+@snap[north-west span-40 text-08]
 ### Memoria RAM
 Almacena los programas.
 @snapend
@@ -189,6 +202,7 @@ Almacena toda la información con la que una computadora está trabajando. Por e
 
 +++?image=assets/img/ram.jpg&size=auto 40%
 +++?image=assets/img/kingston_hyperx.jpg&size=auto 90%
++++?image=assets/img/114032911-male-hands-holding-ram-memory.jpg&size=auto 90%
 
 +++ 
 ### Memoria ROM
@@ -228,8 +242,8 @@ Es parte de la @css[text-pink](memoria principal) de una computadora. Almacena i
 
 +++?color=linear-gradient(0deg, blue 20%, white 80%) 
 @snap[north]
-### Dispositivos I/O
-#### Input / Output
+### Dispositivos I/O 
+#### Periféricos
 @snapend
 
 @snap[west text-left]
@@ -249,8 +263,19 @@ Es parte de la @css[text-pink](memoria principal) de una computadora. Almacena i
 @css[text-white text-bold](Todos los dispositivos externos que interactúan con la computadora.)
 @snapend
 
++++?image=assets/img/bus.png
++++
+@snap[north-west text-left text-08]
+## Bus
+Los bus son líneas de comunicación entre sistemas que @css[text-pink](transfieren información). Dentro de una computadora, generalmente están hechos a base de @css[text-pink](cobre). <br> <br>
 
+Fuera de la computadora, pueden estar hechos a base de @css[text-pink](fibra óptica u otros materiales conductores). <br> <br>
 
+@ul[text-09]
+* @css[text-pink](El bus de control) transfiere las instrucciones del CPU a los dispositivos y memoria.<br> 
+* @css[text-pink](El bus de direcciones) transfiere las localidades de memoria y la ubicación de los datos en memoria.<br> 
+* @css[text-pink](El bus de datos) transfiere la información que será procesada.<br> 
+@ulend
 @snapend
 
 ---?image=assets/img/matrix_code-wallpaper-1920x1080.jpg&opacity=60
@@ -261,42 +286,15 @@ Es parte de la @css[text-pink](memoria principal) de una computadora. Almacena i
 
 +++
 ## Software
-
+@snap[text-left]
 El @css[text-pink](software) es un set de instrucciones que sigue una computadora para obtener cierto resultado.
 
-
 La complejidad del software puede variar desde un programa que sólo suma dos números, hasta un sistema operativo de cientos de miles líneas de código.
-
-+++
-## Sistemas Operativos
-@ul
-* ¿Puedes nombrar 5?
-@ulend
-
-+++
-@snap[north-east]
-![OS_1](assets/img/os_1.png)
-@snapend
-
-@snap[north-west]
-![OS_2](assets/img/os_2.jpg)
-@snapend
-
-@snap[south-east]
-![OS_3](assets/img/os_3.png)
-@snapend
-
-@snap[south-west]
-![OS_4](assets/img/os_4.png)
-@snapend
-
-@snap[mid-east]
-![OS_5](assets/img/os_5.png)
 @snapend
 
 +++?include=OS.md
 
-+++ 
++++
 ## Sistema Informático
 * Entradas
 * Proceso

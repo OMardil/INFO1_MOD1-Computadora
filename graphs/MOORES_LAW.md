@@ -15,12 +15,10 @@ La ley de Moore es una @css[text-pink](observación) que indica que el número d
 @snapend
  
 +++
-@snap[north text-08 text-mid]
-## Moore's Law
-Gráfica log2 de los transistores encontrados en un circuito integrado.
+@snap[north]
+#### Moore's Law (Logarítmica)
 @snapend
 
-@snap[south]
 <canvas data-chart="line">
 <!--
 {
@@ -58,4 +56,3 @@ Gráfica log2 de los transistores encontrados en un circuito integrado.
 }
 -->
 </canvas>
-@snapend

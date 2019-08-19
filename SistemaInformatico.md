@@ -22,6 +22,6 @@ Está compuesto por el hardware, software y actores que ejecutan dicho proceso.
 +++ 
 ## Ejemplo
 Sistema de renta de libros en la biblioteca de una escuela.
-@box[span-60 fragment](Llega un alumno a una computadora de la biblioteca y escribe el nombre del libro que desea buscar.)
-@box[span-60 fragment](Se busca el libro dentro de la base de datos, se obtiene la ubicación física del libro.)
-@box[span-60 fragment](El alumno recoge el libro en el estante correspondiente.)
+@box[span-60 bg-orange fragment](Llega un alumno a una computadora de la biblioteca y escribe el nombre del libro que desea buscar.)
+@box[span-60 bg-blue fragment](Se busca el libro dentro de la base de datos, se obtiene la ubicación física del libro.)
+@box[span-60 bg-green fragment](El alumno recoge el libro en el estante correspondiente.)

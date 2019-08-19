@@ -52,6 +52,7 @@ Hay múltiples ramas del software de aplicación, por ejemplo:
 - etc
 @ulend
 
++++
 ### Malware (Malicious Software)
 Software que entra en la computadora con la intensión de hacer daño al usuario de dicha computadora. Entre los diferentes tipos de malware se encuentran:
 @ul[text-08]
@@ -71,6 +72,7 @@ Software que entra en la computadora con la intensión de hacer daño al usuario
 @snapend
 ![Stuxnet](https://player.vimeo.com/video/25118844)
 
++++
 ### Bugs
 Un error en el funcionamiento del software que produce un resultado inesperado o incorrecto es llamado bug @fa[bug].
 

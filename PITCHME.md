@@ -286,23 +286,24 @@ Fuera de la computadora, pueden estar hechos a base de @css[text-pink](fibra óp
 
 +++
 ## Software
-@snap[text-left]
+@snap[text-left text-09]
 El @css[text-pink](software) es un set de instrucciones que sigue una computadora para obtener cierto resultado.
-
+<br>
 La complejidad del software puede variar desde un programa que sólo suma dos números, hasta un sistema operativo de cientos de miles líneas de código.
-
+<br>
 Hay dos tipos de software:
-@ol[text-08]
+<br>
+@ol[text-08 text-gold]
 - Software de sistema
 - Software de aplicación
 @olend
 @snapend
 
----
-# Sistemas Operativos
+---?color=linear-gradient(to left, #4CA1AF, #C4E0E5)
+# Software de Sistema
 +++?include=OS.md
 
----
+---?color=linear-gradient(to right, #FFEFBA, #FFFFFF)
 # Software de Aplicación
 +++?include=ApplicationSoftware.md
 

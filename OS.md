@@ -1,30 +1,29 @@
++++?color=linear-gradient(to left, #4CA1AF, #C4E0E5)
 ## Sistemas Operativos
-@ul
-* ¿Puedes nombrar 5?
-@ulend
+@box[fragment bg-orange text-white] (¿Puedes nombrar 5?)
 
-+++
-@snap[north-east]
-![OS_1](assets/img/os_1.png)
++++?color=linear-gradient(to left, #4CA1AF, #C4E0E5)
+@snap[north-west fragment]
+![OS_1](assets/img/os/os_1.png)
 @snapend
 
-@snap[north-west]
-![OS_2](assets/img/os_2.jpg)
+@snap[north-east fragment]
+![OS_2](assets/img/os/os_2.png)
 @snapend
 
-@snap[south-east]
-![OS_3](assets/img/os_3.png)
+@snap[midpoint fragment]
+![OS_5](assets/img/os/os_5.png)
 @snapend
 
-@snap[south-west]
-![OS_4](assets/img/os_4.png)
+@snap[south-west fragment]
+![OS_3](assets/img/os/os_3.png)
 @snapend
 
-@snap[mid-east]
-![OS_5](assets/img/os_5.png)
+@snap[south-east fragment]
+![OS_4](assets/img/os/os_4.png)
 @snapend
 
-+++
++++?color=linear-gradient(to left, #4CA1AF, #C4E0E5)
 @snap[text-left]
 ## Sistemas Operativos
 Un sistema operativo es un conjunto de programas que se encarga de gestionar y administrar los recursos de hardware.
@@ -129,7 +128,7 @@ Entre los recursos se encuentran:
 @ulend
 @snapend
 
-+++?image=assets/img/driver.jpg&size=auto 90%
++++?image=assets/img/driver.jpg&size=auto 70%
 
 +++?color=linear-gradient(to left, #4CA1AF, #C4E0E5)
 @transition[none]
@@ -147,8 +146,3 @@ Entre los recursos se encuentran:
     * @fa[file-word] 
 @ulend
 @snapend
-
-
-+++?color=linear-gradient(to left, #4CA1AF, #C4E0E5)
-@transition[none]
-![](assets/img/OS_AllManagers.png)

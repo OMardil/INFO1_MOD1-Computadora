@@ -1,11 +1,13 @@
 ## Sistema Informático
-@snap[text-08]
+@snap[text-07]
 La arquitectura fundamental de un sistema informático muestra la relación entre los componentes de entrada, el proceso, y los componentes de salida.
 
 ![Sistema Informatico](assets/img/sistema_informatico/sistema_informatico.png)
+<br>
+@snapend
 
++++
 Está compuesto por el hardware, software y actores que ejecutan dicho proceso.
-@snap
 
 @snap[south-west]
 @img[fragment](assets/img/sistema_informatico/people.png)
@@ -20,8 +22,13 @@ Está compuesto por el hardware, software y actores que ejecutan dicho proceso.
 @snapend
 
 +++ 
-## Ejemplo
+@snap[north span-100 text-08]
+### Ejemplo
 Sistema de renta de libros en la biblioteca de una escuela.
-@box[span-60 bg-orange fragment](Llega un alumno a una computadora de la biblioteca y escribe el nombre del libro que desea buscar.)
-@box[span-60 bg-blue fragment](Se busca el libro dentro de la base de datos, se obtiene la ubicación física del libro.)
-@box[span-60 bg-green fragment](El alumno recoge el libro en el estante correspondiente.)
+@snapend
+
+@snap[midpoint span-100]
+@box[span-100 bg-orange text-white fragment](Llega un alumno a una computadora de la biblioteca y escribe el nombre del libro que desea buscar. @emoji[person_with_pouting_face] @emoji[thought_balloon] @emoji[green_book] )
+@box[span-100 bg-blue text-white fragment](Se busca el libro dentro de la base de datos, se obtiene la ubicación física del libro. @emoji[mag] @emoji[computer])
+@box[span-100 bg-green text-white fragment](El alumno recoge el libro en el estante correspondiente. @emoji[information_desk_person] @emoji[book] )
+@snapend
